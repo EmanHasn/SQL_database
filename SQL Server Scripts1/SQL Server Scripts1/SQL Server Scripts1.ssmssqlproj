@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-8VQSMU9:DESKTOP-8VQSMU9\ELZAHBIA">
+          <Created>2024-01-21T19:26:05.6588991+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-8VQSMU9</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="create DB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8VQSMU9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8VQSMU9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>create DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="createTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8VQSMU9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8VQSMU9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>createTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="insertValues.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8VQSMU9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8VQSMU9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>insertValues.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Modify table employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8VQSMU9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8VQSMU9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Modify table employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="schemaBonus.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8VQSMU9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8VQSMU9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>schemaBonus.sql</FullPath>
+        </FileNode>
+        <FileNode Name="testing SQL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8VQSMU9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8VQSMU9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>testing SQL.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
